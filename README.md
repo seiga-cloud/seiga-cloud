@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I'm Seiga.
+Aspiring Cloud Infrastructure Engineer
+
+## Skills
+Linux
+Networking
+AWS
+
+## Learning
+LPIC
+CCNA
+AWS
+
+## Goal
+Become Cloud Infrastructure Engineer
 
 <!--
 **seiga-cloud/seiga-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
