@@ -1,30 +1,30 @@
-## Hi there 👋 I'm Seiga.
-Aspiring Cloud Infrastructure Engineer
+# LInux-study
+This repository records my Linux learaning.
 
-## Skills
-Linux
-Networking
-AWS
+## Directory Structure
+Linux-study
+-commands
+-file-permission
+-process
+-user
+-systemstl
 
-## Learning
-LPIC
-CCNA
-AWS
+### commands
+Basic Linux commands
+Example: ls, cp, mv
 
-## Goal
-Become Cloud Infrastructure Engineer
+### file-permission
+File permission management
+Example: chmod, chown
 
-<!--
-**seiga-cloud/seiga-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###process
+Process management
+Example: ps. kill
 
-Here are some ideas to get you started:
+### user
+User management
+Example: useradd, groupadd
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### systemctl
+Service management
+Example: syatemctl start. stop
