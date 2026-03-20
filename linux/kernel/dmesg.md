@@ -54,7 +54,7 @@ in real-world environments.
 
 ---
 
-## 6. journalctl (Kernel Logs)
+##  journalctl (Kernel Logs)
 
 ### Overview
 `journalctl -k` displays kernel messages managed by systemd journal.  
